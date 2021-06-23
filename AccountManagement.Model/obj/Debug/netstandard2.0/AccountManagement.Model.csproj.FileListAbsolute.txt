@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\AccountManagement\AccountManagement.Model\bin\Debug\netstandard2.0\AccountManagement.Model.deps.json
+C:\Users\Admin\source\repos\AccountManagement\AccountManagement.Model\bin\Debug\netstandard2.0\AccountManagement.Model.dll
+C:\Users\Admin\source\repos\AccountManagement\AccountManagement.Model\bin\Debug\netstandard2.0\AccountManagement.Model.pdb
+C:\Users\Admin\source\repos\AccountManagement\AccountManagement.Model\obj\Debug\netstandard2.0\AccountManagement.Model.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AccountManagement\AccountManagement.Model\obj\Debug\netstandard2.0\AccountManagement.Model.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AccountManagement\AccountManagement.Model\obj\Debug\netstandard2.0\AccountManagement.Model.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AccountManagement\AccountManagement.Model\obj\Debug\netstandard2.0\AccountManagement.Model.dll
+C:\Users\Admin\source\repos\AccountManagement\AccountManagement.Model\obj\Debug\netstandard2.0\AccountManagement.Model.pdb
